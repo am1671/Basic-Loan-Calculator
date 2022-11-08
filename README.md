@@ -1,9 +1,9 @@
 # Basic-Loan-Calculator
 Extremely basic java swing application made using Netbeans GUI builder.
 
-> a. Choose the type of loan you want- personal, car, home and 4 banks will come up with their offering interest rate.  
-> b. Enter loan amount, no. of years for which you want the loan, interest rate (compounded yearly)  
-> c. The system will display monthly and total payment (over the years) to be done :smiley:.  
+> a. Choose the type of loan you want- personal, car, home and 4 banks will come up with the interest rate they offer.   
+> b. Enter loan amount, no. of years for which you want the loan, interest rate (compounded yearly).    
+> c. The system will display monthly and total payment (over the years) to be done :smiley:  
 
 Screenshots-
 
